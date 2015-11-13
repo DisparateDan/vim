@@ -1,3 +1,6 @@
+" pathogen for module support
+execute pathogen#infect()
+
 filetype plugin indent on
 set encoding=utf-8
 
